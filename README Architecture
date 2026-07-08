@@ -1,0 +1,11 @@
+User
+   │
+Streamlit App
+   │
+AI Assistant
+   │
+Stadium Services
+ ├── Navigation
+ ├── Crowd Alerts
+ ├── Emergency
+ └── Queue Prediction
