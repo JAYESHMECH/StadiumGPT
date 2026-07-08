@@ -1,2 +1,15 @@
 # StadiumGPT
-An AI-powered stadium assistant for FIFA World Cup 2026 that improves fan experience through smart navigation, crowd management, multilingual support, and emergency assistance.
+
+AI assistant for FIFA World Cup 2026.
+
+## Features
+- Smart Navigation
+- Crowd Alerts
+- Queue Recommendation
+- Emergency Support
+- Multilingual Ready
+
+Run:
+```bash
+streamlit run app.py
+```
